@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&width=700&lines=👋+Hola,+soy+Jeferson+Flórez;🎓+Estudiante+de+Ingeniería+de+Sistemas;💻+Futuro+Backend+Developer;📚+Aprendiendo+y+construyendo+cada+día)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=700&lines=👋+Hola,+soy+Jeferson+Flórez;🎓+Estudiante+de+Ingeniería+de+Sistemas;💻+Futuro+Backend+Developer;📚+Aprendiendo+y+construyendo+cada+día)
 
 
 <br />
