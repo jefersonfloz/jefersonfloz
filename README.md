@@ -1,16 +1,18 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=700&lines=👋+Hi,+I'm+Jeferson+Flórez;🎓+Systems+Engineering+Student;💻+Future+Backend+Developer;📚+Learning+and+building+every+day)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Jeferson+Flórez;🎓+Systems+Engineering+Student;💻+Future+Backend+Developer;📚+Learning+and+building+every+day)
 
-<br />
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeferson-fl%C3%B3rez-aaa33a309/" target="_blank">
-    <img width="40px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    <img width="40px" alt="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
+  
   <a href="https://www.instagram.com/jeffersonf_07/" target="_blank">
-    <img width="40px" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+    <img width="40px" alt="Instagram" src="https://img.icons8.com/color/48/instagram-new.png"/>
   </a>
-  <a href="mailto:jeffersonflorez73@gmail.com" target="_blank">
-    <img width="40px" alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+  
+  <a href="mailto:jeffersonflorez73@gmail.com">
+    <img width="40px" alt="Gmail" src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
 </div>
 
@@ -18,8 +20,13 @@
 
 # 👨‍💻 About Me
 
-I'm a **Systems Engineering student** focused on becoming a **Backend Developer**.  
-Currently building strong programming fundamentals, learning software engineering best practices, and developing real-world projects.
+I'm a **Systems Engineering student** passionate about **Backend Development** and software engineering.
+
+Currently focused on:
+- Building strong programming fundamentals
+- Developing backend applications with Java & Spring Boot
+- Learning best practices in software architecture
+- Creating real-world projects to improve my skills
 
 ---
 
@@ -27,22 +34,22 @@ Currently building strong programming fundamentals, learning software engineerin
 
 ### 🎯 Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python" height="40"/>
 </div>
 
 ### 🎨 Frontend Basics
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" height="40"/>
 </div>
 
 ### 🗄️ Databases
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40"/>
 </div>
 
 ### ⚙️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,azure,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,azure,linux" height="40"/>
 </div>
 
 ---
@@ -50,9 +57,9 @@ Currently building strong programming fundamentals, learning software engineerin
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefersonfloz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jefersonfloz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -61,13 +68,17 @@ Currently building strong programming fundamentals, learning software engineerin
 
 As a student, I'm open to:
 
-- Backend Development Internships
-- Collaborative Projects
-- Open Source Contributions
-- Learning Opportunities & Mentorship
+- 💼 Backend Development Internships
+- 🤝 Collaborative Projects
+- 🌍 Open Source Contributions
+- 📚 Learning Opportunities & Mentorship
 
 ---
 
 <div align="center">
-  <sub>🌱 <em>"Every day is a new opportunity to learn and become a better developer."</em></sub>
+
+### 🌱 Keep Learning, Keep Building
+
+<sub><em>"Every day is a new opportunity to learn and become a better developer."</em></sub>
+
 </div>
