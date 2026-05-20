@@ -57,9 +57,11 @@ Currently focused on:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jefersonfloz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=jefersonfloz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&theme=tokyonight&hide_border=true&layout=compact)
+
 </div>
 
 ---
