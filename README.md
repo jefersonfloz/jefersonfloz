@@ -1,74 +1,73 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=700&lines=👋+Hola,+soy+Jeferson+Flórez;🎓+Estudiante+de+Ingeniería+de+Sistemas;💻+Futuro+Backend+Developer;📚+Aprendiendo+y+construyendo+cada+día)
-
-
-<br />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeferson-fl%C3%B3rez-aaa33a309/" target="_blank" rel="noopener noreferrer">
-    <img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right:15px;" />
-  </a>
-  <a href="https://www.instagram.com/jeffersonf_07/" target="_blank" rel="noopener noreferrer">
-    <img width="40px" alt="Instagram" title="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" style="margin-right:15px;" />
-  </a>
-  <a href="mailto:jeffersonflorez73@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img width="40px" alt="Gmail" title="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-  </a>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&width=700&lines=👋+Hi,+I'm+Jeferson+Flórez;🎓+Systems+Engineering+Student;💻+Future+Backend+Developer;📚+Learning+and+building+every+day)
 
 <br />
 
-
-Soy estudiante de **Ingeniería de Sistemas** con una clara orientación hacia el **desarrollo backend**. Me encuentro en constante aprendizaje, construyendo una base sólida en programación y explorando las mejores prácticas de la ingeniería de software.
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeferson-fl%C3%B3rez-aaa33a309/" target="_blank">
+    <img width="40px" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  </a>
+  <a href="https://www.instagram.com/jeffersonf_07/" target="_blank">
+    <img width="40px" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+  </a>
+  <a href="mailto:jeffersonflorez73@gmail.com" target="_blank">
+    <img width="40px" alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
+  </a>
+</div>
 
 ---
 
-## 💡 **Habilidades técnicas**
+# 👨‍💻 About Me
 
-### 🎯 **Backend en Desarrollo**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python" height="40" alt="Backend Technologies" />
-</div>
-
-
-### 🎨 **Frontend Complementario**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" height="40" alt="Frontend Technologies" />
-</div>
-
-
-### 🗄️ **Bases de Datos**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" alt="Database Technologies" />
-</div>
-
-
-### ⚙️ **Herramientas de Desarrollo**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,azure,linux" height="40" alt="Development Tools" />
-</div
+I'm a **Systems Engineering student** focused on becoming a **Backend Developer**.  
+Currently building strong programming fundamentals, learning software engineering best practices, and developing real-world projects.
 
 ---
 
-## 📈 **Mi Progreso en GitHub**
+## 💡 Technical Skills
+
+### 🎯 Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python" height="40" />
+</div>
+
+### 🎨 Frontend Basics
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css" height="40" />
+</div>
+
+### 🗄️ Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="40" />
+</div>
+
+### ⚙️ Tools & Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,azure,linux" height="40" />
+</div>
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefersonfloz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jefersonfloz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfloz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
 
-## 🚀 **En Búsqueda de Oportunidades**
+## 🚀 Looking for Opportunities
 
-Como estudiante, estoy abierto a:
-- **Prácticas profesionales** en desarrollo backend
-- **Proyectos colaborativos** para ganar experiencia
-- **Mentorías** con desarrolladores senior
-- **Contribuciones open source** para aprender de la comunidad
+As a student, I'm open to:
+
+- Backend Development Internships
+- Collaborative Projects
+- Open Source Contributions
+- Learning Opportunities & Mentorship
 
 ---
 
 <div align="center">
-  <sub>🌱 <em>"Cada día es una oportunidad para aprender algo nuevo y convertirme en un mejor desarrollador"</em></sub>
+  <sub>🌱 <em>"Every day is a new opportunity to learn and become a better developer."</em></sub>
 </div>
