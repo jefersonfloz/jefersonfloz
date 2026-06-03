@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Jeferson+Flórez;🎓+Systems+Engineering+Student;💻+Future+Backend+Developer;📚+Learning+and+building+every+day)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=👋+Hi,+I'm+Jeferson+Flórez;🎓+Systems+Engineering+Student;⚙️+Passionate+About+Software+Development;📚+Learning+and+building+every+day)
 
 <br>
 
@@ -20,13 +20,16 @@
 
 # 👨‍💻 About Me
 
-I'm a **Systems Engineering student** passionate about **Backend Development** and software engineering.
+I'm a **Systems Engineering student** passionate about **software development and technology**.
 
 Currently focused on:
-- Building strong programming fundamentals
-- Developing backend applications with Java & Spring Boot
-- Learning best practices in software architecture
-- Creating real-world projects to improve my skills
+
+* Strengthening my software development fundamentals
+* Designing and building practical software solutions
+* Applying software engineering principles and best practices
+* Continuously learning new technologies and development methodologies
+* Developing projects to enhance my technical skills and practical experience
+
 
 ---
 
@@ -73,7 +76,7 @@ Currently focused on:
 
 As a student, I'm open to:
 
-- 💼 Backend Development Internships
+- 💼 Software Development Internships
 - 🤝 Collaborative Projects
 - 🌍 Open Source Contributions
 - 📚 Learning Opportunities & Mentorship
