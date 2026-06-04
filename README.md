@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeferson-fl%C3%B3rez-aaa33a309/" target="_blank">
+  <a href="https://www.linkedin.com/in/jeferson-fl%C3%B3rez-cantillo-aaa33a309/" target="_blank">
     <img width="40px" alt="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   
